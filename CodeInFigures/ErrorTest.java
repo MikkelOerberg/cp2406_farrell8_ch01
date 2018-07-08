@@ -1,5 +1,7 @@
+package CodeInFigures;
+
 public class ErrorTest
-/*  This class displays a test message 
+/*  This class displays a test message  */
 {
    public static void main(String[] args)
    {

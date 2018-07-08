@@ -1,4 +1,6 @@
-import javax.swing.JOptionPane; 
+package CodeInFigures;
+
+import javax.swing.JOptionPane;
 public class FirstDialog
 {
    public static void main(String[] args)

@@ -1,3 +1,5 @@
+package CodeInFigures;
+
 public class FirstBadOutput
 {
    public static void main(String[] args)
