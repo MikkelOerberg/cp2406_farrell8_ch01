@@ -1,4 +1,4 @@
-package DebuggingExercises;
+package cp2406_farrell8_ch01.DebuggingExercises;
 
 public class FixDebugOne1 {
 
