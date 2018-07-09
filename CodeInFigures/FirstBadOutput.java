@@ -1,4 +1,5 @@
 package cp2406_farrell8_ch01.CodeInFigures;
+/* comments */
 
 public class FirstBadOutput
 {
